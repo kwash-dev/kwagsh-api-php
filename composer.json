@@ -1,0 +1,13 @@
+{
+    "name": "kwagsh/kwagsh-api-php",
+    "description": "Libraries for working with Kwagsh.",
+    "type": "library",
+    "license": "ISC",
+    "authors": [],
+    "autoload": {
+        "psr-4": {
+            "Kwagsh\\": "src/"
+        }
+    },
+    "require": {}
+}
